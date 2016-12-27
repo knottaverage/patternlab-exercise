@@ -1,4 +1,14 @@
-# Pattern Lab Node - Gulp Edition
+# Pattern Lab exercise
+
+Built using Pattern Lab Gulp edition.
+
+## About the exercise
+
+After reading [Brad Frost's ebook about Atomic design](http://atomicdesign.bradfrost.com/chapter-1/), I started wondering what a design language would evolve into starting at the atomic level.
+
+Armed with a basic logo idea and vibrant color scheme I went to work.
+
+## Built using the Gulp Edition
 
 The Gulp wrapper around [Pattern Lab Node Core](https://github.com/pattern-lab/patternlab-node) providing tasks to interact with the core library and move supporting frontend assets.
 
